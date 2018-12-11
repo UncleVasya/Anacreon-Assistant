@@ -94,3 +94,8 @@ ENV/
 #IntelliJ Idea
 *.idea/
 
+# anacreon
+gameInfo.json
+gameObjects.json
+scriptsforanacreon/
+terminus-master
